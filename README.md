@@ -83,7 +83,7 @@
 ---
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-singh)](https://www.linkedin.com/in/aditya-singh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-singh)](https://www.linkedin.com/in/aditya-singh-241b37230/)
 [![Email](https://img.shields.io/badge/Email-aditya.9664.singh@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aditya.9664.singh@gmail.com)
 
 ---
